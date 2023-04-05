@@ -1,2 +1,2 @@
 # Repositories
-- [Study-Spring-with-Inflearn](https://github.com/Heyna-log/Study-Spring-with-Inflearn.git)
+- [study-spring-core](https://github.com/Heyna-log/study-spring-core.git)
